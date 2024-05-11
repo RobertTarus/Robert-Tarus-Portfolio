@@ -26,11 +26,11 @@
 
 
 
-#![Customer Churn Analysis](/assets/img/eeg_band_discovery.jpeg)
+#![Customer Churn Analysis](/assets/)
 
 ## Employee Attrition & Key Performance Tracker
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
-
+#![Customer Churn Analysis](/assets/Attrition.png)
 
 
 ![Bike Study](/assets/img/bike_study.jpeg)
