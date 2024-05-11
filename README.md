@@ -37,4 +37,4 @@
 
 ## ETL Pipeline on Earthquake Events Worldwide
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
-
+#![ETL PIPELINE](/assets/data_pipeline.png)
