@@ -1,16 +1,16 @@
-# Portfolio
+## Portfolio
 
-# Data Engineer
+## Data Engineer
 
 #### Technical Skills: Power BI, SQL, Fabric, Python
 
-## Education
+### Education
 - Post Graduate Certificate in Information Technology Infrastructure - Fanshawe College
 - Advanced Diploma in Procurement and Supply
 - Bachelors in Procurement and Supply
 - Google Data Analyst Professional Certificate
 
-## Work Experience
+### Work Experience
 **Data Analyst @ Purolator Inc. (_October 2022 - Present_)**
 - Extracted, transformed, and analyzed data from diverse sources such as Statistics Canada and Open Data including internal databases and external datasets, to provide insights into the transport supply chain.
 - Proactively troubleshooted and investigated supply chain delivery information issues, identifying root causes, and developing process improvement plans for accurate package routing in the sortation system, resulting in a 10% increase in data remediation efficiency.
@@ -22,15 +22,15 @@
 - Introduced value-based procurement pricing strategies, improving overall cost-effectiveness by 15% through better alignment with supplier value propositions by developing pricing structures based on the perceived value of products or services to the organization, leading to improved supplier relationships and reduced costs.
 - Executed promotional pricing campaigns with suppliers, driving a 12% increase in supplier discounts and cost reductions.
 
-## Projects
-### Customer Churn Analysis
+### Projects
+## Customer Churn Analysis
 #[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
 
 
 #![Customer Churn Analysis](/assets/img/eeg_band_discovery.jpeg)
 
-### Employee Attrition & Key Performance Tracker
+## Employee Attrition & Key Performance Tracker
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
 
 
