@@ -42,3 +42,7 @@
 ## Canada Food Prices Analysis 2017 - 2023
 [Project Link](https://www.kaggle.com/code/roberttarus/canada-food-prices-analysis-2017-to-2023)
 #![Canada Food Prices](/assets/)
+
+## Toronto Bikeshare Ridership Data Cleaning, Integration and SQL Analysis
+[Project Link](https://github.com/RobertTarus/Bienvenue/tree/main)
+#![Toronto Bikeshare](/assets/)
