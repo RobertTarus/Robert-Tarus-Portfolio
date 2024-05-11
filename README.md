@@ -26,7 +26,7 @@
 
 
 
-#![Customer Churn Analysis](/assets/)
+#![Customer Churn Analysis](/assets/california churn rate details.png)
 
 ## Employee Attrition & Key Performance Tracker
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
