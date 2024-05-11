@@ -38,3 +38,7 @@
 ## ETL Pipeline on Earthquake Events Worldwide
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
 #![ETL PIPELINE](/assets/data_pipeline.png)
+
+## Canada Food Prices Analysis 2017 - 2023
+[Project Link](https://www.kaggle.com/code/roberttarus/canada-food-prices-analysis-2017-to-2023)
+#![Canada Food Prices](/assets/)
