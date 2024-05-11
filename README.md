@@ -1,5 +1,3 @@
-## Portfolio
-
 ## Data Engineer
 
 #### Technical Skills: Power BI, SQL, Fabric, Python
