@@ -82,7 +82,7 @@ Key Skills:
 
 | Project Link | Project Description | Dashboard Link |
 |--------------|---------------------|----------------|
-| [Customer Churn Analysis]() | Visualized key insights into reasons why customers were quitting a service using Power BI, including the demographic of churners. | [Dashboard]() |
+| [Customer Churn Analysis](https://www.linkedin.com/posts/roberttarus_powerbi-activity-7188231927823314945-OfpE?utm_source=share&utm_medium=member_desktop) | Visualized key insights into reasons why customers were quitting a service using Power BI, including the demographic of churners. | [Dashboard](https://www.linkedin.com/posts/roberttarus_powerbi-activity-7188231927823314945-OfpE?utm_source=share&utm_medium=member_desktop) |
 
 ![Customer Churn Dashboard](assets/californiachurnratedetails.png)
 
