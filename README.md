@@ -75,8 +75,7 @@ Key Skills:
 | [Canada Food Prices Analysis 2017-2023](https://www.kaggle.com/code/roberttarus/canada-food-prices-analysis-2017-to-2023) | Data Wrangling & EDA | Analyzed food prices data from 2017 to 2023 to investigate price trends of food products and the impact of COVID-19 and inflation on food prices in various provinces in Canada. | Pandas, Matplotlib, NumPy | - **Price Trends**: Identified significant trends in food prices over the years.<br>- **Impact of COVID-19**: Analyzed how the pandemic affected food prices.<br>- **Inflation Impact**: Assessed the influence of inflation on food costs.<br>- **Regional Differences**: Highlighted price variations across different provinces.<br>- **Data Visualization**: Utilized Matplotlib for effective visual representation of findings. |
 
 
-
-![Food Prices Analysis](assets/img)
+![Food Prices Analysis](assets/food_prices.png)
 
 ***
 
