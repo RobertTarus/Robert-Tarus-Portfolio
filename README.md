@@ -1,10 +1,8 @@
-# Tarus Portfolio
 <table>
   <tr>
     <td>
       <h1>Tarus Portfolio</h1>
       <h2>Data Engineer</h2>
-      <p>Technical Skills: Power BI, SQL, Microsoft Fabric, Python</p>
     </td>
     <td>
       <img src="assets/1710116936396.jpg" alt="Profile" style="width:150px;"/>
@@ -12,9 +10,9 @@
   </tr>
 </table>
 
-### Technical Skills: Power BI, SQL, Microsoft Fabric, Python
+Welcome to my data portfolio! With over 4 years of experience as a data analyst, my portfolio serves as a testament to my commitment to excellence in the field of data analysis. Here, you'll find a curated collection of projects that showcase my ability to extract meaningful insights, solve complex problems, and drive informed decision-making. From data engineering to predictive modeling, each project reflects my dedication to delivering impactful solutions in the data-driven world.
 
-Welcome to my data portfolio! Here, I document a summary of my projects in the data field.
+I invite you to explore my portfolio and discover how my skills and experiences can add value to your organization. Whether you're looking for innovative data solutions or collaboration opportunities, I'm excited to connect and discuss how we can achieve success together.
 
 ## About Me
 Throughout my career, I have consistently delivered results that have positively impacted the organizations I have worked for. I have conducted comprehensive spend analysis, implemented compliance reporting mechanisms, and developed Key Performance Indicators (KPIs) to monitor and evaluate supply chain performance.
