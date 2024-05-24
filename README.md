@@ -65,6 +65,7 @@ Key Skills:
 |--------------|------------------|---------------------|
 | [Toronto Bikeshare Ridership 2023](https://github.com/RobertTarus/Bienvenue/blob/main/Bikeshare_SQL_Solutions) | Bikeshare Analysis | Created a semantic model and answered key questions regarding Toronto Bikeshare ridership for 2023, gaining insights into the busiest stations and showcasing how weather affects the number of cyclists using the bikeshare service. This project demonstrates my proficiency in SQL query writing and problem-solving skills. |
 
+![SQL Solutions](assets/sql_code.png)
 ***
 
 ## Python
@@ -100,6 +101,6 @@ Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/roberttarus) o
 
 ## Personal Interests
 
-When I'm not diving into data, I enjoy contributing to open-source projects, participating in data science hackathons, and staying updated with the latest trends in the tech industry. In my free time, I love watching Formula One and Manchester United.
+When I'm not diving into data, I enjoy contributing to open-source projects, and staying updated with the latest trends in the tech industry. In my free time, I love watching Formula One and Manchester United.
 
 
