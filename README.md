@@ -50,7 +50,7 @@ Key Skills:
 |--------------|-----------------|-------|---------------------|
 | [End-to-End ETL Tracking Daily Seismic Events]() | May 2024 | Python, Microsoft Fabric, Power BI | Developed and implemented an end-to-end ETL pipeline for capturing earthquake activities around the world daily. The pipeline leverages the 'requests' module in Python to pull real-time earthquake data from the USGS API in JSON format, ensuring a continuous influx of up-to-date information. This raw data forms the foundation of our data pipeline, capturing historical records of seismic events worldwide. In the silver layer, we reshape and rename the raw data into columns to improve its quality and consistency, laying the groundwork for further analysis. In the gold layer, we import the refined data into Power BI, creating a semantic model optimized for analysis and visualization. This dataset serves as the gold standard for insights generation, providing actionable information on seismic activity worldwide. The Power BI report, using the gold layer data, offers real-time updates on seismic activities worldwide. Users can effortlessly explore the data and gain valuable insights into ongoing seismic trends. To ensure the report remains current, a scheduled data refresh mechanism is created that can pull and update new data daily. Additionally, users can still utilize the SQL analytics endpoint to access and retrieve the data for further analysis. |
 
-![Seismic Events Dashboard](assets/data_pipeline.png)
+![Seismic Events Dashboard](assets/python_code.png)
 
 ## Key Insights from Seismic Events Dashboard
 - **Real-time Data:** Continuously updated with the latest seismic activities.
